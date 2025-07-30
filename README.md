@@ -51,7 +51,7 @@ english-dictionary/
    - 🔤 Auto-suggestions as user types
 
 🙋‍♂️ Author
-Made with ❤️ by Anukit Pandey
+Made with ❤️ by Ankit Pandey
 
 
 ## 📜 License
